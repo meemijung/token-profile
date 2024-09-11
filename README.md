@@ -32,4 +32,4 @@ imToken will process the application within 5 business days.
 
 ## Copyright
 
-2021&copy;imToken PTE. LTD.
+2024&copy;imToken PTE. LTD.
